@@ -59,6 +59,6 @@ Initial release of Lorem Farsi
 # Contribute This Project
 
 
-#### To Contribute [Github Project Link ](https://github.com/rzashakeri/loremfarsi)
+#### To Contribute [Github Project Link ](https://github.com/rzashakeri/Lorem-Farsi)
 
   
