@@ -1,0 +1,64 @@
+{
+    "name": "lorem-farsi",
+    "displayName": "لورم فارسی",
+    "description": "این افزونه بهتون کمک می کنه به سادگی لورم ایپسوم فارسی بسازید ",
+    "version": "1.0.0",
+    "publisher": "Reza Shakeri",
+    "icon": "logo.png",
+    "engines": {
+        "vscode": "^0.10.5"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rzashakeri/loremfarsi"
+    },
+    "keywords": [
+        "farsi lorem",
+        "lorem farsi",
+        "farsi lorem ipsum",
+        "lorem ipsum farsi",
+        "lorem ipsum",
+        "farsi text",
+        "loerem generators",
+        "سازنده لورم ایپسون",
+        "سازنده لورم ایپسون فارسی",
+        "لورم ایپسون فارسی",
+        "لورم ایپسوم"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "react",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "c#",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "java",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+
+}
