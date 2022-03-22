@@ -55,7 +55,9 @@ Just type lorem farsi inside the file you open and Then type the number of parag
 
 Initial release of Lorem Farsi
 
+### 1.0.1
 
+Add New Logo
 # Contribute This Project
 
 
