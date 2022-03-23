@@ -62,5 +62,3 @@ Add New Logo
 
 
 #### To Contribute [Github Project Link ](https://github.com/rzashakeri/Lorem-Farsi)
-
-  
