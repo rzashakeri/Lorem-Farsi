@@ -1,3 +1,4 @@
+# Lorem Farsi
 
 This is a plugin for Visual Studio Code with which you can easily create Persian Lorem ipsum and random sentences and words to test your projects.
 
