@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Lorem Farsi
 
-You can use the [editor on GitHub](https://github.com/rzashakeri/Lorem-Farsi/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This is a plugin for Visual Studio Code with which you can easily create Persian Lorem ipsum and random sentences and words to test your projects.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
