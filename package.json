@@ -1,9 +1,9 @@
 {
     "name": "lorem-farsi",
-    "displayName": "لورم فارسی",
+    "displayName": "Lorem Farsi",
     "description": "این افزونه بهتون کمک می کنه به سادگی لورم ایپسوم فارسی بسازید ",
-    "version": "1.0.0",
-    "publisher": "Reza Shakeri",
+    "version": "1.0.3",
+    "publisher": "RezaShakeri",
     "icon": "logo.png",
     "engines": {
         "vscode": "^0.10.5"
@@ -13,7 +13,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/rzashakeri/loremfarsi"
+        "url": "https://github.com/rzashakeri/Lorem-Farsi"
     },
     "keywords": [
         "farsi lorem",

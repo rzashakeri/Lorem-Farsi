@@ -46,8 +46,6 @@ Just type lorem farsi inside the file you open and Then type the number of parag
 
 <br>
 
-
-
 # Release Notes
 
 
