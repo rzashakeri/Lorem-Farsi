@@ -46,6 +46,8 @@ Just type lorem farsi inside the file you open and Then type the number of parag
 
 <br>
 
+
+
 # Release Notes
 
 
@@ -60,5 +62,3 @@ Add New Logo
 
 
 #### To Contribute [Github Project Link ](https://github.com/rzashakeri/Lorem-Farsi)
-
-  
